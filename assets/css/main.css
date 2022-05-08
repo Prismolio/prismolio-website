@@ -1978,19 +1978,19 @@ ol {
 ========================================*/
 .language-area {
   position: relative;
-  padding: 0px 0 120px 0;
+  padding: 0px 0 20px 0;
   background: linear-gradient(90deg, rgba(62,180,137,1) 0%, rgba(9,169,197,1) 35%);
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .language-area {
-    padding: 10px 0 20px 0;
+    padding: 10px 0 10px 0;
   }
 }
 
 @media (max-width: 767px) {
   .language-area {
-    padding: 10px 0 20px 0;
+    padding: 10px 0 10px 0;
   }
 }
 
